@@ -34,7 +34,7 @@ while(i){
 
     //tampilkan hasil
     alert('kamu memilih '+ p + ' dan komputer memilih '+ komp+'\nmaka kamu ' + hasil);
-u
+
     i = confirm('Main Lagi?');
 }
 
